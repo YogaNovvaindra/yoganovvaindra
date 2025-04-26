@@ -36,14 +36,13 @@ Welcome to my GitHub profile! I'm a **DevOps Engineer** specializing in **GitOps
 ---
 
 ## 📈 GitHub Stats
-![Yoga Novvaindra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YogaNovvaindra&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YogaNovvaindra&layout=compact&theme=tokyonight)
+![Yoga Novvaindra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YogaNovvaindra&show_icons=true&theme=tokyonight&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YogaNovvaindra&layout=compact&theme=tokyonight&count_private=true)
 ---
 
 ## 🌐 Connect With Me
 - 📧 Email: [yoganovaindra@gmail.com](mailto:yoganovaindra@gmail.com)
 - 💼 LinkedIn: [Yoga Novaindra](https://www.linkedin.com/in/yoga-novaindra)
-<!-- - 🐦 Twitter: [@YogaNovvaindra](https://twitter.com/YogaNovvaindra) -->
 - 🌐 Portfolio: [yoganova.my.id](https://yoganova.my.id)
 
 ---
