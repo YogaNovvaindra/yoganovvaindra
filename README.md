@@ -27,6 +27,7 @@ Welcome to my GitHub profile! I'm a **DevOps Engineer** specializing in **GitOps
 
 ### **Cloud & Homelab Platforms**
 ![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![Ceph](https://img.shields.io/badge/-Ceph-FF2B2B?style=flat-square&logo=ceph&logoColor=white)
 ![MicroK8s](https://img.shields.io/badge/-MicroK8s-3C3C3D?style=flat-square&logo=kubernetes&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -36,7 +37,7 @@ Welcome to my GitHub profile! I'm a **DevOps Engineer** specializing in **GitOps
 
 ## 📈 GitHub Stats
 ![Yoga Novvaindra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YogaNovvaindra&show_icons=true&theme=tokyonight)
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YogaNovvaindra&layout=compact&theme=tokyonight) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YogaNovvaindra&layout=compact&theme=tokyonight)
 ---
 
 ## 🌐 Connect With Me
