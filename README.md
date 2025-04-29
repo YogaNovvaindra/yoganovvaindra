@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Yoga Novvaindra!
+# 👋 Hello, I'm Yoga Novaindra!
 
 Welcome to my GitHub profile! I'm a **DevOps Engineer** specializing in **GitOps-driven Kubernetes deployments** and a passionate **homelabber**. My work revolves around automating workflows, optimizing deployments, and experimenting with cutting-edge technologies in my homelab.
 
