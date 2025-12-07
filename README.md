@@ -19,7 +19,7 @@ I'm a DevSecOps Engineer passionate about building automated, secure, and observ
 
 ## 🔥 Currently
 
-- 🔧 Optimizing production infrastructure and enhancing observability at Run System
+- 🔧 Optimizing production infrastructure and enhancing observability
 - 🛡️ Strengthening security operations with Wazuh SIEM and ISO 27001 compliance
 - 🚀 Improving Kubernetes homelab with GitOps and security enhancements
 
@@ -80,14 +80,6 @@ Production-like, self-hosted Kubernetes environment for automation, observabilit
 *September 2019 – Present*
 
 High-availability on-prem virtualization and distributed storage environment. Managed Proxmox VE, built Ceph cluster, configured virtual networks and secure interconnects.
-
----
-
-## 📈 GitHub Stats
-
-![Yoga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YogaNovvaindra&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YogaNovvaindra&layout=compact&theme=tokyonight&count_private=true)
 
 ---
 
